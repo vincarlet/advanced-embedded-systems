@@ -1,3 +1,0 @@
-freertos.c:57:6:MX_FREERTOS_Init	8	static
-freertos.c:75:6:StartBlinkyTask	32	static
-freertos.c:95:6:HAL_GPIO_EXTI_Callback	24	static
